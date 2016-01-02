@@ -1,0 +1,64 @@
+TIntegration
+v7
+r0
+t390293718.663041
+cCheck dependencies
+cCompileC build/Integration.build/Debug/Integration.build/Objects-normal/x86_64/main.o "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug/Integration" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c0000000050588F4900000000000000EE
+t1347981129
+s238
+
+N/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug/Integration
+t1368600918
+s72760
+
+N/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/Objects-normal/x86_64/Integration.LinkFileList
+c000000005192D0220000000000000089
+t1368576034
+s137
+
+N/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/Objects-normal/x86_64/main.o
+t1368600917
+s203760
+
+N/Users/trevormuraro/Documents/Homework/COMP 252/Integration/main.cpp
+c00000000519335C50000000000005D3A
+t1368602053
+s23866
+i<iostream>
+i<string>
+i<vector>
+i<cstdlib>
+i<cctype>
+i<cmath>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies390293718#390293718#0(0"0(0#1#0"8605357664#0"0#
+
+CCompileC build/Integration.build/Debug/Integration.build/Objects-normal/x86_64/main.o "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s390293718.646896
+e390293718.647700
+r1
+xCompileC
+xbuild/Integration.build/Debug/Integration.build/Objects-normal/x86_64/main.o
+x/Users/trevormuraro/Documents/Homework/COMP 252/Integration/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/trevormuraro/Documents/Homework/COMP 252/Integration/main.cpp390293718#390293718#0(0"0(0#0#68"/Users/trevormuraro/Documents/Homework/COMP 252/Integration/main.cpp8604024928#1616"    cd "/Users/trevormuraro/Documents/Homework/COMP 252/Integration"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/Integration-generated-files.hmap" "-I/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/Integration-own-target-headers.hmap" "-I/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/Integration-all-target-headers.hmap" -iquote "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/Integration-project-headers.hmap" "-F/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug" "-I/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug/include" "-I/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/DerivedSources/x86_64" "-I/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/DerivedSources" -c "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/main.cpp" -o "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug/Integration" normal x86_64
+s390293718.647744
+e390293718.662996
+r1
+xLd
+x/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug/Integration
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug/Integration390293718#390293718#0(0"0(0#0#0"8603787616#629"    cd "/Users/trevormuraro/Documents/Homework/COMP 252/Integration"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug" "-F/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug" -filelist "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Integration.build/Debug/Integration.build/Objects-normal/x86_64/Integration.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/trevormuraro/Documents/Homework/COMP 252/Integration/build/Debug/Integration"0#
+
